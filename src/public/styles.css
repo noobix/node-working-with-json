@@ -1,0 +1,18 @@
+.panel {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.hotimg {
+  width: 70%;
+  height: 80%;
+}
+.position {
+  margin-top: 50px;
+  margin-left: 120px;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
